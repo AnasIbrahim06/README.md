@@ -43,9 +43,9 @@ Jupyter Notebook | Git & GitHub | VS Code
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/)  
-- [Email](mailto:anas@example.com)  
-- [Portfolio](https://your-portfolio.com) *(optional)*
+- [LinkedIn](www.linkedin.com/in/anas-ibrahim-6b9381305)  
+- [Email](anasibru3@gmail.com)  
+- [Portfolio](https://anasibrahim06.github.io/) 
 
 ---
 
