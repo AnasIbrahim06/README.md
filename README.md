@@ -5,6 +5,9 @@
 🎯 A passionate **Data Analyst** who transforms data into actionable insights  
 🔍 Curious mind | 📊 Data storyteller | 🧠 Always learning  
 
+
+![Data Analyst GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ---
 
 ## 🚀 About Me
